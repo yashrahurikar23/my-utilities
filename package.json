@@ -1,0 +1,20 @@
+{
+  "name": "my-utilities",
+  "version": "1.0.0",
+  "description": "A repository to hold various scripts used for various purposes.... well this description defines it all",
+  "main": "load_images.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashrahurikar23/my-utilities.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashrahurikar23/my-utilities/issues"
+  },
+  "homepage": "https://github.com/yashrahurikar23/my-utilities#readme"
+}
