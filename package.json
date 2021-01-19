@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/yashrahurikar23/my-utilities/issues"
   },
-  "homepage": "https://github.com/yashrahurikar23/my-utilities#readme"
+  "homepage": "https://github.com/yashrahurikar23/my-utilities#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
 }
